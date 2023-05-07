@@ -1,1 +1,4 @@
 # StableDiffusionSelectMobileApp
+外部のStableDiffutionで作成された画像がZipファイルとしてこのアプリの画像フォルダに格納される。
+サイドバーに格納されたZipファイル名が表示されておりクリックするとサムネイルの画像リストが表示される。
+厳選した画像は設定したTwitterのIDでTweetされる。
